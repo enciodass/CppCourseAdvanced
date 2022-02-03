@@ -834,3 +834,11 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,vim,emacs,visualstudiocode,visualstudio,clion,clion+all,clion+iml,cmake,c
+# Xmake cache
+.xmake/
+build/
+
+# MacOS Cache
+.DS_Store
+
+
