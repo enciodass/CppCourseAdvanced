@@ -3,7 +3,7 @@ add_rules("mode.debug", "mode.release")
 set_config("cc", "clang")
 set_config("ld", "clang++")
 
-target("library")
+target("libary")
     set_kind("static")
     add_files("src/library/*.c")
 
